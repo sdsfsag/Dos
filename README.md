@@ -1,2 +1,0 @@
-# Dos
-Dos attack software
